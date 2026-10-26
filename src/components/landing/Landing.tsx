@@ -183,7 +183,7 @@ export function Landing() {
             <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-emerald-100 text-emerald-600"><Footprints size={15} /></span>
             Walk-through
           </div>
-          <div className="ff-float absolute -bottom-6 right-10 z-10 hidden items-center gap-2 rounded-2xl border border-line bg-panel px-3 py-2 text-xs font-medium shadow-xl sm:flex" style={{ animationDelay: "-4s" }}>
+          <div className="ff-float absolute -bottom-7 right-44 z-10 hidden items-center gap-2 rounded-2xl border border-line bg-panel px-3 py-2 text-xs font-medium shadow-xl sm:flex" style={{ animationDelay: "-4s" }}>
             <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-violet-100 text-violet-600"><Wand2 size={15} /></span>
             Auto-arrange
           </div>
