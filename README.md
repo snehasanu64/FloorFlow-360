@@ -4,6 +4,8 @@
 
 ### Design your dream home in 2D & 3D — right in your browser.
 
+### 🌐 [Live demo → floorflow-360.vercel.app](https://floorflow-360.vercel.app)
+
 Draw a room, furnish it from **156 household items**, then orbit it, walk through it, light it day or night, and get a cost estimate.
 **Free · no sign-up · nothing leaves your device.**
 
